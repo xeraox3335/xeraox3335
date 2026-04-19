@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=xeraox3335&label=Profile%20views&color=0e75b6&style=flat)
 ![Type](https://img.shields.io/badge/Type-Student-green)
-![Prefered License](https://img.shields.io/badge/Preferes-MIT%20License-red)
+![Prefered License](https://img.shields.io/badge/Prefers-MIT%20License-red)
 
 - 🧠 I'm currently learning **Python, C# and more**
 - ⚡ My hobbies: **Coding, music production, climbing, and parkour**
